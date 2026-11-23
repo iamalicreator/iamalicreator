@@ -19,25 +19,24 @@
 
 ## 𝙰𝙱𝙾𝚄𝚃 𝙼𝙴
 
-I'm Ali — an independent developer and creator building real products end-to-end: Telegram bots used by real people every day, fast client-side web tools, and AI-driven content channels.
+Independent developer & creator — I build real products end-to-end.
 
-- 🤖 **Telegram bots** — privacy chat, username hunting, chat automation & community tools
-- 🌐 **Web apps** — fast, flat, professional tools that run fully in the browser
-- 🎬 **AI content** — founder of **ai404ia** studio; dark-music channel **Alive3AM**
-- 📚 **Who Invented** — daily invention stories on Facebook (45K+ followers)
+- 🤖 **Telegram bots** — privacy, automation & community tools
+- 🌐 **Web apps** — fast tools that run fully in the browser
+- 🎬 **AI content** — founder of **ai404ia** studio • **Alive3AM** music
 
 ## 𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝙳 𝙿𝚁𝙾𝙹𝙴𝙲𝚃𝚂
 
 | Project | What it is | Link |
 |---|---|---|
-| **Private Chat** | Anonymous 1-to-1 Telegram chat — no usernames, no numbers, one-tap full wipe | [t.me/StartPrivateChatBot](https://t.me/StartPrivateChatBot) |
-| **HuntHandle** | Telegram username finder — checks availability & suggests better names | [t.me/HuntHandleBOT](https://t.me/HuntHandleBOT) |
-| **MeawReply** | Chat automation bot — custom auto-replies for chats, groups & channels | [t.me/MeawReplyBOT](https://t.me/MeawReplyBOT) |
-| **Kuneco** | Privacy-first social network — Telegram-powered login & media storage | [kuneco-social.web.app](https://kuneco-social.web.app) |
+| **Private Chat** | Anonymous 1-to-1 Telegram chat | [t.me/StartPrivateChatBot](https://t.me/StartPrivateChatBot) |
+| **HuntHandle** | Telegram username finder | [t.me/HuntHandleBOT](https://t.me/HuntHandleBOT) |
+| **MeawReply** | Chat automation bot | [t.me/MeawReplyBOT](https://t.me/MeawReplyBOT) |
+| **Kuneco** | Privacy-first social network | [kuneco-social.web.app](https://kuneco-social.web.app) |
 | **Sav3Now** | All-platform video downloader | [sav3now.web.app](https://sav3now.web.app) |
-| **NotAi** | Client-side AI metadata remover for images & video | [notaifree.web.app](https://notaifree.web.app) |
-| **TempMeaw** | Temporary email inbox with OTP auto-detect | [tempmeaw.web.app](https://tempmeaw.web.app) |
-| **IAM ALI** | My personal hub — projects, music, payments & contact | [iamali.my.id](https://iamali.my.id) |
+| **NotAi** | AI metadata remover | [notaifree.web.app](https://notaifree.web.app) |
+| **TempMeaw** | Temporary email inbox | [tempmeaw.web.app](https://tempmeaw.web.app) |
+| **IAM ALI** | My personal hub | [iamali.my.id](https://iamali.my.id) |
 
 ## 𝚃𝙴𝙲𝙷 𝚂𝚃𝙰𝙲𝙺
 
@@ -60,9 +59,9 @@ I'm Ali — an independent developer and creator building real products end-to-e
 
 ## 𝙲𝙾𝙽𝙽𝙴𝙲𝚃 𝚆𝙸𝚃𝙷 𝙼𝙴
 
-- 🌐 Website — [iamali.my.id](https://iamali.my.id)
-- ✈️ Telegram — [@iama_li](https://t.me/iama_li) • Developer channel [@yeahali](https://t.me/yeahali)
-- 🎥 YouTube — [@1AMAL1R1CH](https://youtube.com/@1AMAL1R1CH)
-- 📧 Business — business.iam.ali@proton.me
+- 🌐 [iamali.my.id](https://iamali.my.id)
+- ✈️ [@iama_li](https://t.me/iama_li) • [@yeahali](https://t.me/yeahali)
+- 🎥 [@1AMAL1R1CH](https://youtube.com/@1AMAL1R1CH)
+- 📧 business.iam.ali@proton.me
 
 <p align="center"><i>Build in public. Ship fast. Stay legit.</i></p>
